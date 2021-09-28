@@ -1,1 +1,1 @@
-# my_first_project
+# my_study_source
