@@ -1,4 +1,4 @@
-# GIT HUB 설정 참고
+## GIT HUB 설정 참고
 
 1. git config --global user.name "FIRST_NAME LAST_NAME"\
 2. git config --global user.email "khg537@gmail.com"\
